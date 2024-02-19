@@ -113,3 +113,13 @@ a :hover {
 #navbar-example3 a:hover {
   color: #000000;
 }
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+
+#carouselExampleIndicators {
+  max-width: 600px;
+  max-height: 300px;
+}
