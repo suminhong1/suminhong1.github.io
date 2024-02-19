@@ -34,11 +34,11 @@ li {
 }
 
 a {
-  color: #06c;
+  color: rgb(0, 113, 227);
   text-decoration: none;
 }
 a:hover {
-  color: rgb(2, 73, 144);
+  color: rgb(2, 49, 96);
 }
 
 .main {
